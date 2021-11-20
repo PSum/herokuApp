@@ -1,0 +1,2 @@
+zum erstellen 
+python -m venv "hier namen des env eingeben ohne "" "
