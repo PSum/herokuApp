@@ -47,7 +47,7 @@ resource_fields = {
 @app.route('/')
 @app.route('/index')
 def greeting():
-    return "This is a test REST Api, which handles temperatur recordings"
+    return "This is a test REST Api, which handles weight recordings"
 
 
 class Temperatur(Resource):
